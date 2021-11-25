@@ -1,0 +1,35 @@
+body {
+    background-image: URL("background.jpg");
+}
+
+.disk-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px ;
+}
+
+.speed-div {
+    float: left;
+}
+.volume-div {
+    float: right;
+}
+
+#speed {
+    margin-right: 30px;
+}
+
+.title {
+    width: 100%;
+    font-size: 25px;
+}
+
+.play {
+    width: 100px; 
+    font-size: 25px;
+}
+
+canvas {
+    border: 5px black ridge;
+    border-radius: 20px;
+}
